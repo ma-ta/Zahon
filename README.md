@@ -1,6 +1,6 @@
 # BýloMetr (IoT)
 
-> Digitální monitorovací stanice pro záhon či květináč (teplota, světlo, vlhkost půdy, srážky)
+> Bezdrátová digitální monitorovací stanice pro záhon či květináč (teplota, světlo, vlhkost půdy, srážky)
 
 ![Fotodokumentace] (/fotodokumentace/001.jpg)
 
