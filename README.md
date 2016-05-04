@@ -2,6 +2,8 @@
 
 > Digitální monitorovací stanice pro záhon či květináč (teplota, světlo, vlhkost půdy, srážky)
 
+![Fotodokumentace] (/fotodokumentace/001.jpg)
+
 ### Etapa projektu
 - [x] 1. zprovoznit prototyp
 - [ ] 2. optimalizovat kód a fyzické zapojení
