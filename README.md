@@ -22,5 +22,5 @@
   - teplotní čidlo DS18B20,
   - detektor srážek,
   - čidlo pro měření vlhkosti půdy.
-- zdroj, rezistory, (převodník napětí TTL na 3,3 V), nepájivé kontaktní pole, kabely.
-- (USB-Serial převodník na programování ESP8266)
+- zdroj, rezistory, (převodník napěťový úrovní logických hodnot TTL na 3,3 V), nepájivé kontaktní pole, kabely.
+- (USB-Serial převodník na programování Wi-Fi modulu ESP8266)
