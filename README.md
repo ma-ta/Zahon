@@ -2,7 +2,7 @@
 
 > Bezdrátová digitální monitorovací stanice pro záhon či květináč (teplota, světlo, vlhkost půdy, srážky)
 
-![Fotodokumentace] (/fotodokumentace/001.jpg)
+![Fotodokumentace](/fotodokumentace/001.jpg)
 
 ### Etapa projektu
 - [x] 1. zprovoznit prototyp
@@ -13,7 +13,7 @@
 - [ ] 6. software na zpracování dat
 - [ ] 7. dokumentace, návody
 
-###Hlavní HW komponenty
+### Hlavní HW komponenty
 - MCU ATMega328P (resp. Arduino Uno),
 - Wi-Fi modul ESP8266-01,
 - LCD displej z Nokie 5110,
