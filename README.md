@@ -1,17 +1,24 @@
-# BýloMetr (IoT)
+# BýloMetr
 
-> Bezdrátová digitální monitorovací stanice pro záhon či květináč (teplota, světlo, vlhkost půdy, srážky)
+> Wi-Fi monitorovací stanice pro záhon či květináč s vestavěným webovým serverem
+
+## Monitorované veličiny
+- teplota
+- úroveň světla
+- vlhkost půdy
+- srážky
 
 ![Fotodokumentace](/fotodokumentace/001.jpg)
 
 ### Etapa projektu
 - [x] 1. zprovoznit prototyp
 - [ ] 2. optimalizovat kód a fyzické zapojení
-- [ ] 3. doplnit více čidel pro výpočet průměru
-- [ ] 4. napájení z akumulátoru
-- [ ] 5. miniaturizovaná case
-- [ ] 6. software na zpracování dat
-- [ ] 7. dokumentace, návody
+- [ ] 3. ukládání dat
+- [ ] 4. zpřesnit měření (např. více čidel pro průměrování)
+- [ ] 5. napájení z akumulátoru
+- [ ] 6. miniaturizovaná case
+- [ ] 7. software na zpracování dat
+- [ ] 8. dokumentace, návody
 
 ### Hlavní HW komponenty
 - MCU ATMega328P (resp. Arduino Uno),
