@@ -12,8 +12,8 @@
 
 ### Etapa projektu
 - [x] 1. zprovoznit prototyp
-- [ ] 2. optimalizovat kód a fyzické zapojení
-- [ ] 3. ukládání dat
+- [ ] 2. ukládání dat
+- [ ] 3. optimalizovat kód a fyzické zapojení
 - [ ] 4. zpřesnit měření (např. více čidel pro průměrování)
 - [ ] 5. napájení z akumulátoru
 - [ ] 6. miniaturizovaná case
